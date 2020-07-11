@@ -1,0 +1,22 @@
+.search-recom-card {
+  width: 100%;
+  background-color: #fff;
+  margin: 10px 0;
+}
+
+.search-recom-card>>>.el-card__header {
+  padding: 7px 20px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #d29943;
+}
+
+.search-recom-card>>>.el-card__body {
+  padding: 7px 20px 10px 20px;
+}
+
+.search-recom-famous {
+  margin-top: 10px;
+  color: #a0a0a0;
+  font-size: 14px;
+}

@@ -1,0 +1,35 @@
+.search-famous-background {
+  background-color: #fff;
+  padding: 10px 0;
+  margin: 5px 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+
+.search-famous-auth {
+  margin-top: 10px;
+}
+
+.line {
+  border-top: 1px solid black;
+  width: 80px;
+  margin: 12px 10px 0 0;
+}
+
+.search-famous-flex {
+  display: flex;
+  align-content: center;
+}
+
+.search-famous {
+  margin: 10px 0 5px 0;
+}
+
+.search-famous>>>.el-input-group__prepend {
+  width: 40px;
+}
+
+.search-famous-poetry-name {
+  margin-bottom: 5px;
+  font-weight: bold;
+}

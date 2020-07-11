@@ -1,0 +1,19 @@
+.form-no-inline >>> .el-select {
+  display: inherit;
+}
+
+.form-no-margin >>> .el-form-item__content{
+  margin: 0 !important;
+}
+
+.color-grey {
+  color:#eee;
+}
+
+.color-red {
+  color: red;
+}
+
+.display-flex{
+  display: flex;
+}
